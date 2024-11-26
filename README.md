@@ -1,4 +1,4 @@
-# 🛩️ Usama Sajjad Ahmed  
+# 🛩️ Usama Sajjad Ahmed 🤖 
 
 **`Data Scientist | AI Enthusiast | Ex-Fighter Pilot`**
 
@@ -12,7 +12,6 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
       <a href="https://github.com/usamasajjadahmed">
          <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/usamasajjadahmed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/usamasajjadahmed?tab=repositories&sort=stargazers">
-         <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/usamasajjadahmed?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
