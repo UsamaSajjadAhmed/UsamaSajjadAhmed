@@ -57,6 +57,7 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </a>
+<br/>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
   <img align="left" alt="Microsoft Office 365" width="50px" style="padding-right:10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
 </a>
@@ -64,3 +65,4 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 <br/>
 
 ---
+
