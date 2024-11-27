@@ -29,7 +29,7 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
 <img align="left" alt="Microsoft SQL Server" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="AWS" width="40px" style="padding-right:10px; padding-top:5px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702633077_AWSlogoAmazonWebServiceslogo.png"/>
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702633077_AWSlogoAmazonWebServiceslogo.png"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Microsoft Office 365" width="40px" style="padding-right:10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
 <br/>
