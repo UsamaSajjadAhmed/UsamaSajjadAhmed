@@ -16,24 +16,82 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 
 ---
 
-### 🧰 Languages and Tools  
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-<img align="left" alt="Microsoft Office" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-<img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://matplotlib.org/_static/images/logo2.svg" />
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-
-<br />
-<br />
+<style>
+    .tool-icon {
+      transition: transform 0.2s; /* Smooth resizing effect */
+    }
+  
+    .tool-icon:hover {
+      transform: scale(1.2); /* Makes the logo 20% bigger on hover */
+    }
+  
+    .tool-icon::before {
+      content: attr(title); /* Custom tooltip content */
+      position: absolute;
+      opacity: 0; /* Initially hidden */
+      background-color: #333; /* Dark background */
+      color: #fff; /* White text */
+      padding: 5px;
+      border-radius: 5px;
+      white-space: nowrap;
+      transform: translate(-50%, -150%);
+      pointer-events: none;
+      transition: opacity 0.2s; /* Instant appearance */
+      z-index: 10;
+    }
+  
+    .tool-icon:hover::before {
+      opacity: 1; /* Show tooltip on hover */
+    }
+  </style>
+  
+  ### 🧰 Languages and Tools
+  
+  <p>
+    <a href="https://www.python.org/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="30px" align="left" />
+    </a>
+    <a href="https://numpy.org/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="30px" align="left" />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="30px" align="left" />
+    </a>
+    <a href="https://matplotlib.org/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" title="Matplotlib" width="30px" align="left" />
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="30px" align="left" />
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px; padding-top: 5px;" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" title="scikit-learn" width="50px" align="left" />
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="30px" align="left" />
+    </a>
+    <a href="https://pytorch.org/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="30px" align="left" />
+    </a>
+    <a href="https://opencv.org/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="30px" align="left" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="30px" align="left" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="30px" align="left" />
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;; padding-top: 5px;" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" alt="AWS" title="AWS" width="40px" align="left" />
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;; padding-top: 1px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30px" align="left" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+      <img class="tool-icon" style="padding-right: 10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png" alt="Microsoft Office 365" title="Microsoft Office 365" width="40px" align="left" />
+    </a>
+    <br /><br />
+  </p>
+  
 
 ---
