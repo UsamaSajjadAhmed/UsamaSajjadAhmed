@@ -34,7 +34,7 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
   <img align="left" alt="Seaborn" width="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank">
-  <img align="left" alt="scikit-learn" width="50px" style="padding-right:10px; padding-top:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"/>
+  <img align="left" alt="scikit-learn" width="60px" style="padding-right:10px; padding-top:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank">
   <img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
@@ -58,7 +58,7 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
   <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-  <img align="left" alt="Microsoft Office 365" width="40px" style="padding-right:10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
+  <img align="left" alt="Microsoft Office 365" width="50px" style="padding-right:10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
 </a>
 <br/>
 <br/>
