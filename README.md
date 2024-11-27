@@ -19,48 +19,49 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 ### 🧰 Languages and Tools
   
 <p>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
   </a>
-  <a href="https://numpy.org/" target="_blank">
+  <a href="https://numpy.org/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
+  <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" />
   </a>
-  <a href="https://matplotlib.org/" target="_blank">
+  <a href="https://matplotlib.org/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" title="Matplotlib" />
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
+  <a href="https://seaborn.pydata.org/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
+  <a href="https://scikit-learn.org/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; padding-top: 5px; width: 50px; vertical-align: middle;" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" title="scikit-learn" />
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
+  <a href="https://www.tensorflow.org/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" />
   </a>
-  <a href="https://pytorch.org/" target="_blank">
+  <a href="https://pytorch.org/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" />
   </a>
-  <a href="https://opencv.org/" target="_blank">
+  <a href="https://opencv.org/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" />
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
+  <a href="https://aws.amazon.com/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; padding-top: 5px; width: 40px; vertical-align: middle;" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" alt="AWS" title="AWS" />
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
+  <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 30px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" style="text-decoration: none;">
     <img style="padding-right: 10px; width: 40px; vertical-align: middle;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png" alt="Microsoft Office 365" title="Microsoft Office 365" />
   </a>
 </p>
+
 
 ---
