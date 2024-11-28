@@ -36,6 +36,18 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 <a href="https://scikit-learn.org/" target="_blank">
   <img align="left" alt="scikit-learn" width="60px" style="padding-right:10px; padding-top:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"/>
 </a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img align="left" alt="PyTorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+</a>
+<a href="https://opencv.org/" target="_blank">
+  <img align="left" alt="OpenCV" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img align="left" alt="Microsoft SQL Server" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+</a>
 
 <br style="line-height:7px;" />
 
@@ -48,9 +60,14 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img align="left" alt="Microsoft SQL Server" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+  <img align="left" alt="Microsoft Office 365" width="50px" style="padding-right:10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img align="left" alt="Excel" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img align="left" alt="Power BI" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
 </a>
 
 <br clear="left"/>
-
