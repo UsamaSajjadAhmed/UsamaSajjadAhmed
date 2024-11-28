@@ -59,7 +59,7 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 </a>
 <br clear="left"/>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-  <img align="left" alt="Microsoft Office 365" width="43px" style="padding-right:10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
+  <img align="left" alt="Microsoft Office 365" width="50px" style="padding-right:10px; margin-left:-5px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
 </a>
 
 <br clear="left"/>
