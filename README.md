@@ -48,9 +48,6 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img align="left" alt="Microsoft SQL Server" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 </a>
-
-<br clear="left"/>
-
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </a>
@@ -60,6 +57,7 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </a>
+<br clear="left"/>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
   <img align="left" alt="Microsoft Office 365" width="50px" style="padding-right:10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
 </a>
