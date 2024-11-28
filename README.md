@@ -49,7 +49,7 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
   <img align="left" alt="Microsoft SQL Server" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 </a>
 
-<br style="line-height:7px;" />
+<br clear="left"/>
 
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -63,11 +63,7 @@ I'm a passionate data scientist and AI enthusiast, leveraging a decade of experi
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
   <img align="left" alt="Microsoft Office 365" width="50px" style="padding-right:10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
 </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img align="left" alt="Excel" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"/>
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img align="left" alt="Power BI" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
-</a>
 
 <br clear="left"/>
+<br/>
+
