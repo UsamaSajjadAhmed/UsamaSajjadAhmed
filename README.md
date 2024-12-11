@@ -2,7 +2,7 @@
 
 **`Data Scientist | AI Enthusiast | Ex-Fighter Pilot`**
 
-I'm a passionate data scientist and AI enthusiast, leveraging a decade of experience as a fighter pilot to solve complex problems with data-driven insights. My journey from aviation to data science is fueled by a love for precision, strategy, and impactful solutions. From building predictive models to automating workflows with AI, I aim to craft innovative solutions for real-world challenges and drive business impact with data.
+I am a passionate data scientist with a Distinction in MSc Data Science with Artificial Intelligence from the University of Exeter. My journey into data science was inspired by my career as a fighter pilot, where I experienced a critical in-flight emergency caused by a preventable software malfunction. This pivotal moment sparked my desire to harness the power of data to solve complex, real-world problems. Whether it's building predictive models or automating workflows with AI, I strive to craft innovative solutions that create measurable business impact.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/usama-sajjad-ahmed/">
