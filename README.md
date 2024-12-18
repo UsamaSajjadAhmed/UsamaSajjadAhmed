@@ -4,15 +4,18 @@
 
 I am a passionate data scientist with a Distinction in MSc Data Science with Artificial Intelligence from the University of Exeter. My journey into data science was inspired by my career as a fighter pilot, where I experienced a critical in-flight emergency caused by a preventable software malfunction. This pivotal moment sparked my desire to harness the power of data to solve complex, real-world problems. Whether it's building predictive models or automating workflows with AI, I strive to craft innovative solutions that create measurable business impact.
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/usama-sajjad-ahmed/">
-         <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="mailto:usamasajjadahmed19@gmail.com">
-         <img alt="Email Me" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-      <a href="https://github.com/usamasajjadahmed">
-         <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/usamasajjadahmed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/usamasajjadahmed?tab=repositories&sort=stargazers">
-   </p>
+<p align="left">
+   <a href="https://www.linkedin.com/in/usama-sajjad-ahmed/">
+      <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+   <a href="mailto:usamasajjadahmed19@gmail.com">
+      <img alt="Email Me" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+   <!-- 
+   <a href="https://github.com/usamasajjadahmed">
+      <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/usamasajjadahmed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   -->
+   <a href="https://github.com/usamasajjadahmed?tab=repositories&sort=stargazers">
+</p>
+
 
 ---
 
