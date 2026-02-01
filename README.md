@@ -30,6 +30,12 @@ I am a passionate data scientist with a Distinction in MSc Data Science with Art
 <a href="https://pandas.pydata.org/" target="_blank">
   <img align="left" alt="Pandas" title="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 </a>
+<a href="https://streamlit.io/" target="_blank">
+  <img align="left" alt="Streamlit" title="Streamlit" width="40px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/streamlit-icon.png"/>
+</a>
+<a href="https://plotly.com/" target="_blank">
+  <img align="left" alt="Plotly" title="Plotly" width="40px" style="padding-right:10px;" src="https://plotly.github.io/documentation/all_static/images/icon-dash-dark.png"/>
+</a>
 <a href="https://matplotlib.org/" target="_blank">
   <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"/>
 </a>
@@ -63,6 +69,9 @@ I am a passionate data scientist with a Distinction in MSc Data Science with Art
 <br clear="left"/>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" style="display: inline-block; margin-left: -10px;">
   <img align="left" alt="Microsoft Office 365" title = "Microsoft Office 365" width="45px" style="padding-right:10px; margin-left:-10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
+</a>
+<a href="https://www.snowflake.com/en/" target="_blank" style="display: inline-block; margin-left: -10px;">
+  <img align="left" alt="Snowflake" title = "Snowflake" width="32px" style="padding-right:10px; margin-left:-10px;" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/snowflake-color.png"/>
 </a>
 
 <br clear="left"/>
