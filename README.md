@@ -66,12 +66,9 @@ I am a passionate data scientist with a Distinction in MSc Data Science with Art
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" title = "JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </a>
-<br clear="left"/>
-<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" style="display: inline-block; margin-left: -10px;">
-  <img align="left" alt="Microsoft Office 365" title = "Microsoft Office 365" width="45px" style="padding-right:10px; margin-left:-10px;" src="https://empist.com/wp-content/uploads/2023/09/Microsoft-365.png"/>
-</a>
-<a href="https://www.snowflake.com/en/" target="_blank" style="display: inline-block; margin-left: -10px;">
-  <img align="left" alt="Snowflake" title = "Snowflake" width="32px" style="padding-right:10px; margin-left:-10px;" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/snowflake-color.png"/>
+<!-- <br clear="left"/> -->
+<a href="https://www.snowflake.com/en/" target="_blank" style="display: inline-block;">
+  <img align="left" alt="Snowflake" title = "Snowflake" width="32px" style="padding-right:10px;" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/snowflake-color.png"/>
 </a>
 
 <br clear="left"/>
