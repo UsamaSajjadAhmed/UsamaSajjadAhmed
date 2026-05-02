@@ -37,7 +37,7 @@ I am a passionate data scientist with a Distinction in MSc Data Science with Art
   <img align="left" alt="Plotly" title="Plotly" width="40px" style="padding-right:10px;" src="https://plotly.github.io/documentation/all_static/images/icon-dash-dark.png"/>
 </a>
 <a href="https://matplotlib.org/" target="_blank">
-  <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right:10px;" src="https://miro.medium.com/v2/1*I0t-fLjyUZ3XnJLRW1B-uQ.png"/>
+  <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right:10px; margin-top:10px;" src="https://miro.medium.com/v2/1*I0t-fLjyUZ3XnJLRW1B-uQ.png"/>
 </a>
 <a href="https://seaborn.pydata.org/" target="_blank">
   <img align="left" alt="Seaborn" title = "Seaborn" width="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
