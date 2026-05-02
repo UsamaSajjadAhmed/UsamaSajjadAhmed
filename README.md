@@ -37,13 +37,13 @@ I am a passionate data scientist with a Distinction in MSc Data Science with Art
   <img align="left" alt="Plotly" title="Plotly" width="40px" style="padding-right:10px;" src="https://plotly.github.io/documentation/all_static/images/icon-dash-dark.png"/>
 </a>
 <a href="https://matplotlib.org/" target="_blank">
-  <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right:10px;" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png](https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png)"/>
+  <img align="left" alt="Matplotlib" title="Matplotlib" width="40px" style="padding-right:10px;" src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png"/>
 </a>
 <a href="https://seaborn.pydata.org/" target="_blank">
   <img align="left" alt="Seaborn" title = "Seaborn" width="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank">
-  <img align="left" alt="scikit-learn" title = "Scikit-learn" width="60px" style="padding-right:10px; padding-top:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"/>
+  <img align="left" alt="scikit-learn" title = "Scikit-learn" width="60px" style="padding-right:10px; padding-top:5px;" src="https://miro.medium.com/v2/1*c7gkx366nMxBuTrt82CjDg.jpeg"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank">
   <img align="left" alt="TensorFlow" title = "TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
